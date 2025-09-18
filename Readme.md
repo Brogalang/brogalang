@@ -2,7 +2,7 @@
 
 Halo! 👋  
 Ini adalah repository untuk **website portfolio saya**, yang bisa diakses di sini:  
-👉 **[brogalang.github.io](https://brogalang.github.io/)**
+👉 **[https://brogalang.github.io/brogalang/](https://brogalang.github.io/brogalang/)**
 
 Website ini saya buat untuk menampilkan pengalaman, proyek, dan skill saya sebagai software engineer.  
 Dibangun dengan **HTML, CSS, dan JavaScript**, serta di-host di **GitHub Pages**.
